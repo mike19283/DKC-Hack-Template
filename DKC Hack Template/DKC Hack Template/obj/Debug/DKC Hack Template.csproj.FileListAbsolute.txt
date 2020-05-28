@@ -1,0 +1,10 @@
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\DKC Hack Template\DKC Hack Template\bin\Debug\DKC Hack Template.exe.config
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\DKC Hack Template\DKC Hack Template\bin\Debug\DKC Hack Template.exe
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\DKC Hack Template\DKC Hack Template\bin\Debug\DKC Hack Template.pdb
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\DKC Hack Template\DKC Hack Template\obj\Debug\DKC Hack Template.csprojResolveAssemblyReference.cache
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\DKC Hack Template\DKC Hack Template\obj\Debug\DKC_Hack_Template.Form1.resources
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\DKC Hack Template\DKC Hack Template\obj\Debug\DKC_Hack_Template.Properties.Resources.resources
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\DKC Hack Template\DKC Hack Template\obj\Debug\DKC Hack Template.csproj.GenerateResource.cache
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\DKC Hack Template\DKC Hack Template\obj\Debug\DKC Hack Template.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\DKC Hack Template\DKC Hack Template\obj\Debug\DKC Hack Template.exe
+E:\OneDrive\Documents\Visual Studio 2017\School and misc (dkc2)\DKC Hack Template\DKC Hack Template\obj\Debug\DKC Hack Template.pdb
